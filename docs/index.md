@@ -1,4 +1,4 @@
-# Readme for Citrix Virtual Channel SDK 1808
+# Readme for Citrix Virtual Channel SDK 1809
 
 Readme Version: 1.0 
 
@@ -25,7 +25,7 @@ A Citrix Independent Computing Architecture (ICA) virtual channel is a bidirecti
 
 The Citrix Virtual Channel Software Development Kit (SDK) allows you to write both server-side applications and client-side drivers to support additional virtual channels using the Citrix ICA protocol. The server-side virtual channel applications run on XenApp and XenDesktop servers. This SDK provides support for writing new virtual channels for the Linux clients. 
 
-Important: Use Version 1808 of the Citrix Virtual Channel SDK with Citrix Workspace app for Linux 1808. 
+Important: Use Version 1809 of the Citrix Virtual Channel SDK with Citrix Workspace app for Linux 1809. 
 
 The Citrix Virtual Channel SDK provides the following: 
 
