@@ -1,4 +1,4 @@
-# Readme for Citrix Virtual Channel SDK 1809
+# Readme for Citrix Virtual Channel SDK
 
 Readme Version: 1.0 
 
@@ -25,7 +25,7 @@ A Citrix Independent Computing Architecture (ICA) virtual channel is a bidirecti
 
 The Citrix Virtual Channel Software Development Kit (SDK) allows you to write both server-side applications and client-side drivers to support additional virtual channels using the Citrix ICA protocol. The server-side virtual channel applications run on XenApp and XenDesktop servers. This SDK provides support for writing new virtual channels for the Linux clients. 
 
-Important: Use Version 1809 of the Citrix Virtual Channel SDK with Citrix Workspace app for Linux 1809. 
+Important: Use this version of the Citrix Virtual Channel SDK with Citrix Workspace app for Linux. 
 
 The Citrix Virtual Channel SDK provides the following: 
 
@@ -46,7 +46,7 @@ The Virtual Channel SDK will build in 5MB of disk space. The Virtual Channel SDK
 ### To install the Virtual Channel SDK 
 
 1.	Download the Virtual Channel SDK, vcsdk.tar.gz, from  
-[https://www.citrix.com/downloads/citrix-workspace-app/virtual-channel-sdks/virtual-channel-sdk.html](https://www.citrix.com/downloads/citrix-workspace-app/virtual-channel-sdks/virtual-channel-sdk.html)
+[https://www.citrix.com/downloads/workspace-app/virtual-channel-sdks/virtual-channel-sdk.html](https://www.citrix.com/downloads/workspace-app/virtual-channel-sdks/virtual-channel-sdk.html)
 2.	Open a terminal window.
 3.	Run the installation file by typing `tar xvfz vcsdk.tar.gz`. 
 
