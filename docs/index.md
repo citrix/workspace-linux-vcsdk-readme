@@ -1,4 +1,4 @@
-# Readme for Citrix Virtual Channel SDK
+# Readme for Citrix Virtual Channel SDK for Citrix Workspace app for Linux 1912
 
 Readme Version: 1.0 
 
